@@ -83,3 +83,6 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Pyth
 ## Contact
 
 For any questions or suggestions, please contact [rabearimananahadjpro@gmail.com].
+
+## Source
+[Source documentation for Rag](https://docs.mistral.ai/guides/rag/)
