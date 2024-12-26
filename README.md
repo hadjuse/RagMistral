@@ -46,7 +46,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system using Pyth
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/projectRagMistral.git
+    git clone https://github.com/hadjuse/projectRagMistral.git
     cd projectRagMistral
     ```
 
